@@ -1,0 +1,30 @@
+[
+  {
+    "type": "source_file",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "statement",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "statement",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "block_comment",
+    "named": true
+  },
+  {
+    "type": "line_comment",
+    "named": true
+  }
+]
